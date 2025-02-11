@@ -6,6 +6,6 @@ texto = "ABCDEFGHI"
 fragmento = texto[::2] # Extrae la cadena de dos en dos
 print(fragmento)
 
-texto = "ABCDEFGHI"
+texto = "ABCDEFGHIJ"
 fragmento = texto[::-1] # Extrae la cadena de dos en dos
 print(fragmento)
